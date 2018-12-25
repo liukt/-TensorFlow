@@ -1,4 +1,5 @@
-# Deep Learning with TensorFlow
+# Deep Learning with TensorFlow [link](https://www.youtube.com/watch?v=MrijcdNl_U4&list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
+
 ## 学习笔记
 [2018-12-18](03/18.md): 第3章 TensorFlow 基本开发步骤 (以逻辑回归拟合二维数据为例)
 
