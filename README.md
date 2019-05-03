@@ -12,4 +12,6 @@
 ## 参考
 [TensorFlow深度学习入门笔记](https://zhuanlan.zhihu.com/p/57288099)
 
+[01-深度学习-概述-深度学习的发展历程](https://www.jianshu.com/p/2a5936c2a6dd)
 ## 清洗、特征选取、调优
+
