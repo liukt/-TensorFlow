@@ -12,6 +12,18 @@
 ## 参考
 [TensorFlow深度学习入门笔记](https://zhuanlan.zhihu.com/p/57288099)
 
+[学习基于深度学习的图像理解](https://zhuanlan.zhihu.com/p/62420715)
+
 [01-深度学习-概述-深度学习的发展历程](https://www.jianshu.com/p/2a5936c2a6dd)
+
+[SIGAI人工智能讲堂](https://zhuanlan.zhihu.com/c_201634018)
+
+[从经典深度学习模型探讨图像识别新方向](https://zhuanlan.zhihu.com/p/33311130)
+
+[U-net医学影像分割实例](https://zhuanlan.zhihu.com/p/36890585)
+
+[人工智能医疗应用系列](https://zhuanlan.zhihu.com/beimingyouyu)
+
+[Python之深度学习分析医学图像实战基础I](https://zhuanlan.zhihu.com/p/26045554)
 ## 清洗、特征选取、调优
 
