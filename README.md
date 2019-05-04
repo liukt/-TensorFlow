@@ -1,5 +1,8 @@
 # Deep Learning with TensorFlow [link](https://www.youtube.com/watch?v=MrijcdNl_U4&list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
 
+## 机器学习算法各个击破
+[简单的交叉熵损失函数](https://zhuanlan.zhihu.com/p/38241764)
+
 ## 学习笔记
 [2018-12-27](03/18.md): 第4章 TensorFlow 编程基础
 
