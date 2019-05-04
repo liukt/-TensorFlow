@@ -19,7 +19,8 @@
 - Hinge损失函数
 - 指数损失函数
 ## 机器学习算法各个击破
-[简单的交叉熵损失函数](https://zhuanlan.zhihu.com/p/38241764)
+- [简单的交叉熵损失函数](https://zhuanlan.zhihu.com/p/38241764)
+- [极大似然估计详解](https://blog.csdn.net/zengxiantao1994/article/details/72787849)
 
 
 
