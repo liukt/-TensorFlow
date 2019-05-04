@@ -12,6 +12,12 @@
 
 [Sigmoid函数](https://blog.csdn.net/Eddy_zheng/article/details/50756245)
 
+[损失函数(loss function)或者代价函数(cost function)](http://heloowird.com/2017/03/08/diff_errors_of_neural_network/)
+- 0-1损失函数
+- 平方损失函数
+- 交叉熵损失函数
+- Hinge损失函数
+- 指数损失函数
 ## 机器学习算法各个击破
 [简单的交叉熵损失函数](https://zhuanlan.zhihu.com/p/38241764)
 
