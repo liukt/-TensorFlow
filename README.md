@@ -1,8 +1,4 @@
 # Deep Learning with TensorFlow [link](https://www.youtube.com/watch?v=MrijcdNl_U4&list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
-
-## 机器学习算法各个击破
-[简单的交叉熵损失函数](https://zhuanlan.zhihu.com/p/38241764)
-
 ## 学习笔记
 [2018-12-27](03/18.md): 第4章 TensorFlow 编程基础
 
@@ -11,6 +7,15 @@
 [2018-12-16](02/16.md): 第2章 搭建开发环境
 
 [2018-12-13](01/13.md): 第1章 快速了解人工智能与TensorFlow
+
+## 深度学习与神经网络
+
+[Sigmoid函数](https://blog.csdn.net/Eddy_zheng/article/details/50756245)
+
+## 机器学习算法各个击破
+[简单的交叉熵损失函数](https://zhuanlan.zhihu.com/p/38241764)
+
+
 
 ## 参考
 [TensorFlow深度学习入门笔记](https://zhuanlan.zhihu.com/p/57288099)
