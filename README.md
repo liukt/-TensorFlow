@@ -35,3 +35,5 @@
 [Python之深度学习分析医学图像实战基础I](https://zhuanlan.zhihu.com/p/26045554)
 ## 清洗、特征选取、调优
 
+## 概率
+[P（AB）=P（A）P（B|A）](https://www.zybang.com/question/f5833747e88c5f19a2faa657ce91e901.html)
