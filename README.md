@@ -16,6 +16,8 @@
 
 - [卷积要旋转180度](https://www.jianshu.com/p/8dfe02b61686)
 
+- [CNN网络的pooling层有什么用？](https://www.zhihu.com/question/36686900)
+
 [Sigmoid函数](https://blog.csdn.net/Eddy_zheng/article/details/50756245)
 
 [损失函数(loss function)或者代价函数(cost function)](http://heloowird.com/2017/03/08/diff_errors_of_neural_network/)
