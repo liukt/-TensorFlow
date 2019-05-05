@@ -9,6 +9,7 @@
 [2018-12-13](01/13.md): 第1章 快速了解人工智能与TensorFlow
 
 ## 深度学习与神经网络
+[CNN经典模型整理](https://blog.csdn.net/m0_37264397/article/details/75174484)
 
 [Sigmoid函数](https://blog.csdn.net/Eddy_zheng/article/details/50756245)
 
